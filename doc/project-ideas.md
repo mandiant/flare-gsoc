@@ -422,7 +422,7 @@ The goal of this project is to design and implement an HTML export module for XR
 - Ability to conceptualize and design an intuitive user interface that effectively presents complex data.
 - Basic knowledge of Git/Github.
 
-## GoReSym: Recover Golang Structure Tags in GoReSym
+## GoReSym: Recover Golang Structure Tags and Interface Methods in GoReSym
 
 **Mentors:** @stevemk14ebr, @jaeyoungkimG  
 **Difficulty:** Easy to Medium  
